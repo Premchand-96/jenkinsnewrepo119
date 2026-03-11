@@ -20,7 +20,7 @@ pipeline {
         stage('Clone Repository') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/dineshd1575/jenkins-fs2.git'
+                    url: 'https://github.com/Premchand-96/jenkinsnewrepo119.git'
             }
         }
  
